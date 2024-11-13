@@ -1,0 +1,11 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A new learning journey in backen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzma Kafeel",
+  "license": "ISC"
+}
